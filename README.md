@@ -96,3 +96,4 @@ All tools share:
 | **Dependencies** | Vendored locally (`vendor/`) — no CDN, works offline if you clone the repo |
 | **Hosting** | GitHub Pages (static files) |
 
+check
